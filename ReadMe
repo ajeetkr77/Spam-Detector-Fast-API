@@ -1,0 +1,7 @@
+Instructions to run the web app
+
+1. pip install fastapi
+2. pip install uvicorn
+3. uvicorn myapp:app --reload
+ 
+Now got to "http://127.0.0.1:8000/docs"
