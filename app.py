@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 import uvicorn
 
-
+"index created by me"
 # Init App
 app = FastAPI()
 
